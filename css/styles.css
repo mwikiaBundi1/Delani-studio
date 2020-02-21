@@ -49,7 +49,7 @@ h3{
     text-align: center;
 }
 
-.media{
+footer{
     text-align: center;
     margin-right: 10%;
     margin-left: 10%;
@@ -62,3 +62,9 @@ h3{
     margin-top: 10%;
     background-size: cover;
 }
+
+.contacts{
+    background-image: url("../img/backgrounds/c_image.jpg");
+    padding-top: ;
+}
+
