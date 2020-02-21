@@ -1,4 +1,10 @@
 .home{
     background-image: url("../img/backgrounds/h_img.jpg");
-    
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    color: cornsilk;
+    align-items: center;
+    font-size: medium;
 }
