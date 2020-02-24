@@ -17,9 +17,7 @@
     color: cornsilk;
     
 }
-.whatwedo p{
-    display: none;
-}
+
 
 #logo{
       margin-left: auto;
@@ -122,4 +120,11 @@ footer{
     visibility: visible;
     opacity: 1;
     background-color: rgba(0, 0, 0, 0.5);
+}
+#development, #pmanagent, #design-p{
+    display: none;
+}
+.wat_we_do{
+    padding-left: 10%;
+    padding-right: 10%;
 }
