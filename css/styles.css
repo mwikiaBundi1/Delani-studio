@@ -90,6 +90,12 @@ footer{
 .form{
     text-align: center;
 }
+.results{
+    color:white;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
 
 .about{
     text-align: center;

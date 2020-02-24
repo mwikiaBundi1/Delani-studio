@@ -118,19 +118,19 @@
 
     <div id="second">
       <div class="row column2">
- <div class="col-md-3 ">
+ <div class="col-md-3 myspace">
        <img src="img/portfolio/work5.jpg" width="91%" alt="this is my image">
      </div>
 
-       <div class="col-md-3">
+       <div class="col-md-3 myspace">
        <img src="img/portfolio/work6.jpg" width="91%"alt="this is my image">
        </div>
 
-       <div class="col-md-3">
+       <div class="col-md-3 myspace">
        <img src="img/portfolio/work7.jpg" width="91%"alt="this is my image">
        </div>
 
-       <div class="col-md-3">
+       <div class="col-md-3 myspace">
        <img src="img/portfolio/work8.jpg" width="91%"alt="this is my image">
     </div>
   </div>
@@ -138,11 +138,14 @@
  <div class="container-fluid contacts">
       <form  class="form">
           <p><h3 id="contUs">CONTACT US</h3></p>
-          <input type="text" class="input" placeholder="Your Name">
-          <input type="email" class="input" placeholder="Your Email"> <br>
-          <textarea name="" class="input" cols="40" rows="10"></textarea> <br>
-          <button type="submit" class="btn btn-primary">Submit</button>
+          <input type="text" class="input" placeholder="Your Name" id="name" required>
+          <input type="email" class="input" placeholder="Your Email" id="email" required> <br>
+          <textarea name="" class="input" cols="40" rows="10" id="message"></textarea> <br>
+          <button type="submit" class="btn btn-primary" id="submit" required >Submit</button>
       </form>
+      <div class="results">
+          <p id="results"></p>
+      </div>
  </div>
 </div>
     
