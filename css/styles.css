@@ -128,3 +128,6 @@ footer{
     padding-left: 10%;
     padding-right: 10%;
 }
+input::placeholder, button::placeholder{
+    color: white;
+}
