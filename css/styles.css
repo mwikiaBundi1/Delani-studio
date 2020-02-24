@@ -82,7 +82,7 @@ footer{
 }
 
 .contacts {
-    background: url(../images/c_image.jpg);
+    background: url("../images/c_image.jpg");
     padding: 100px;
     text-align: center;
 }
