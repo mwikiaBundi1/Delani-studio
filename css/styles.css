@@ -52,7 +52,10 @@ h3{
 footer{
     text-align: center;
     margin-right: 10%;
-    margin-left: 10%;
+    margin-left: 300px;
+    align-items: center;
+    align-self: center;
+
 }
 .services{
     background-image: url("../img/backgrounds/s_image.jpg ");
@@ -61,10 +64,39 @@ footer{
     color: white;
     margin-top: 10%;
     background-size: cover;
+    text-align: center;
 }
 
 .contacts{
     background-image: url("../img/backgrounds/c_image.jpg");
-    padding-top: ;
 }
 
+.column2{
+    margin-top: 48px;
+}
+#ken{
+    text-align: center;
+}
+/* 
+.contacts {
+    background: url(../images/c_image.jpg);
+    padding: 100px;
+    text-align: center;
+}
+.input {
+    background: transparent;
+    color: white;
+} */
+.form{
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+    padding-top: 30px;
+}
+.row{
+    margin-left: 50%;
+    margin-right: 50%S;
+
+}
