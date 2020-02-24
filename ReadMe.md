@@ -1,6 +1,6 @@
 
 # Delani Studio
-#### By **Mwikia Martin Bundi
+#### By **Mwikia Martin Bundi** 22 FEB 2020
 ## Description
  Basically Delani Studio is a webpage that provides information about Delani studio and services offered, their about portfolio and a contact form where interested users can leave a message.
 
