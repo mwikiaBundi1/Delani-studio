@@ -13,7 +13,7 @@
 +jQuerry
 
 ## GitHub link
-To open My-Portfolio 
+To open My-Portfolio[https://mwikiabundi1.github.io/Delani-studio/]
 
 ## Support and contact details
 For any question reach me via email: mwikiam@gmail.com.

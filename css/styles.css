@@ -109,6 +109,11 @@ footer{
     margin-right: 50%S;
 
 }
+.myspace {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 5%;
+  }
 .description {
     position: absolute;
     opacity: 0;
@@ -125,7 +130,7 @@ footer{
     transform: translate(-50%, -50%);
     text-align: center;
 }
-.img_description_show {
+.description_show {
     visibility: visible;
     opacity: 1;
     background-color: rgba(0, 0, 0, 0.5);

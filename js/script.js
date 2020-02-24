@@ -10,7 +10,7 @@ $(document).ready(function () {
     });
 
     $(".myspace").hover(function(){
-        $(this).find("div").toggleClass(".img_description_show");
+        $(this).find("div").toggleClass("description_show");
     });
 
     $("#submit").click(function(){
