@@ -8,6 +8,11 @@ $(document).ready(function () {
     $(".product_icon").click(function () {
         $("#pmanagent").toggle();
     });
+
+    $(".myspace").hover(function(){
+        $(this).find("div").toggleClass(".img_description_show");
+    });
+
     $("#submit").click(function(){
         event.preventDefault()
         var name=$("#name").val();
